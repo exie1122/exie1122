@@ -59,7 +59,7 @@ Small vision models running on low-resource hardware just to see how far things 
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=exie1122&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=exie1122&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -69,6 +69,7 @@ Small vision models running on low-resource hardware just to see how far things 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=exie1122&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
 
 ---
 
