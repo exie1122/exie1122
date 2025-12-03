@@ -21,8 +21,6 @@ Stuff I actually do:
 - Design PCBs in KiCad for smaller/faster versions of things I already built  
 - Experiment with autonomous micro-drones and onboard perception
 
-No motivational quotes, no “I love coding since I was 3” stuff.
-
 ---
 
 ## 🧰 Stack
@@ -83,5 +81,3 @@ Small vision models running on low-resource hardware just to see how far things 
 - Cleaning up old repos and rewriting messy code
 
 ---
-
-<p align="center"><sub>Nothing fancy here — just projects.</sub></p>
